@@ -24,7 +24,7 @@
  
  
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Languages And Tools :
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
