@@ -5,10 +5,10 @@
   
 <table align="right">
   <tr>
-   <td align="center" col-span=3><a href=""><img src="https://i.ibb.co/6XpKv1V/profile-png.png" width="150px" height="150px" /></a> </th>
+   <td align="center" col-span=3><img src="https://i.ibb.co/6XpKv1V/profile-png.png" width="150px" height="150px" /></th>
   </tr>
   <tr>
-  <td align="center" col-span=3><a href="">Knight-Byte</a></td>
+  <td align="center" col-span=3><a href="https://github.com/knight-byte">Knight-Byte</a></td>
   </tr>
   <tr>
   <td><a href="https://github.com/knight-byte"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/_.masterofnothing._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px" height="32px"></a> <a href="https://in.linkedin.com/in/abunachar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32px" height="32px"></a> <a href="https://www.codewars.com/users/knight-byte"><img src="https://simpleicons.org/icons/codewars.svg" width="32px" height="32px"></a><a href="https://www.hackerrank.com/Abunachar"><img src="https://img.icons8.com/windows/64/000000/hackerrank.png" width="32px" height="32px"></a></td>
