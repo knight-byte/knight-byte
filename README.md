@@ -15,16 +15,16 @@
   </tr>
  </table>
  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap" rel="stylesheet">
-<p style="font-family: 'Courier Prime', monospace; font-size:11pt; font-style:italic">
-- 🔭 I’m currently working on ...  <b>Online Python Compiler</b><br>
-- 🌱 I’m currently learning ... <b>Python,Django</b><br>
-- 🤔 I’m looking for help with ... <b>Web Development</b><br>
-- 💬 Ask me about ... <b>Tech and Stuff</b><br><br>
- </p>
+<pre style="font-family: 'Courier Prime', monospace; font-size:11pt; font-style:italic">
+- 🔭 I’m currently working on   ...   <b>Online Python Compiler</b><br>
+- 🌱 I’m currently learning     ...   <b>Python,Django</b><br>
+- 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
+- 💬 Ask me about               ...   <b>Tech and Stuff</b><br><br>
+ </pre>
  
  
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Languages And Tools :
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
