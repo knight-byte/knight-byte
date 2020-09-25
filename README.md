@@ -24,7 +24,7 @@
  
  
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Languages And Tools :
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
@@ -35,10 +35,9 @@
 <code><a href="" target="_blank"><img height="60" src="https://img.icons8.com/color/96/000000/css3.png"/></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg"></a></code>
 
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight-byte&layout=compact" /></p>
-  
 
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some stats about Knight-byte <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p align=center>
-<img alt="KnightByte's github stats" src="https://github-readme-stats.vercel.app/api?username=knight-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-  </p>
+<img alt="KnightByte's github stats" align=right src="https://github-readme-stats.vercel.app/api?username=knight-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+ 
+  &nbsp; &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight-byte&layout=compact" />
+  
