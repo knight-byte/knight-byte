@@ -15,7 +15,12 @@
   </tr>
  </table>
  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap" rel="stylesheet">
-<pre style="font-family: 'Courier Prime', monospace; font-size:11pt; font-style:italic">
+<pre style="font-family: 'Courier Prime', monospace; font-size:11pt; font-style:italic overflow-x: auto;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;">
 - 🔭 I’m currently working on   ...   <b>Online Python Compiler</b><br>
 - 🌱 I’m currently learning     ...   <b>Python,Django</b><br>
 - 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
