@@ -32,7 +32,7 @@
 &nbsp; 
 <a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg"></a>
 <a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg"/></a>
-<a href="" target="_blank"><img height="45" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg"/></a>
 <a href="https://www.python.org/" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"></a>
 <a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg"></a>
