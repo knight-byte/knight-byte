@@ -21,8 +21,8 @@
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
   word-wrap: break-word;">
-- 🔭 I’m currently working on   ...   <b>Online Python Compiler</b><br>
-- 🌱 I’m currently learning     ...   <b>Python,Django</b><br>
+- 🔭 I’m currently working on   ...   <b>Portfolio Website</b><br>
+- 🌱 I’m currently learning     ...   <b>JavaScript</b><br>
 - 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
 - 💬 Ask me about               ...   <b>Tech and Stuff</b><br><br>
  </pre>
