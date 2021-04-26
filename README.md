@@ -11,7 +11,7 @@
   <td align="center" col-span=3><a href="https://github.com/knight-byte">Knight-Byte</a></td>
   </tr>
   <tr>
-  <td><a href="https://github.com/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="24px" height="24px"></a> <a href="https://www.instagram.com/_.masterofnothing._/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24px" height="24px"></a> <a href="https://in.linkedin.com/in/abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="24px" height="24px"></a> <a href="https://www.codewars.com/users/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" width="24px" height="24px"></a><a href="https://www.hackerrank.com/Abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="24px" height="24px"></a></td>
+  <td><a href="https://github.com/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="24px" height="24px"></a> <a href="https://www.instagram.com/_.masterofnothing._/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24px" height="24px"> <a href="https://www.codewars.com/users/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" width="24px" height="24px"></a><a href="https://www.hackerrank.com/Abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="24px" height="24px"></a></td>
   </tr>
  </table>
  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap" rel="stylesheet">
@@ -21,8 +21,8 @@
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
   word-wrap: break-word;">
-- 🔭 I’m currently working on   ...   <b>Portfolio Website</b><br>
-- 🌱 I’m currently learning     ...   <b>JavaScript</b><br>
+- 🔭 I’m currently working on   ...   <b>Datastructure And Algorithms</b><br>
+- 🌱 I’m currently learning     ...   <b>Nothing new Just improving my skills</b><br>
 - 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
 - 💬 Ask me about               ...   <b>Tech and Stuff</b><br><br>
  </pre>
