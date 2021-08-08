@@ -25,8 +25,10 @@
 - 🔭 I’m currently working on   ...   <b>Datastructure And Algorithms</b><br>
 - 🌱 I’m currently learning     ...   <b>Nothing new Just improving my skills</b><br>
 - 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
-- 💬 Ask me about               ...   <b>Tech and Stuff</b><br><br>
+- 💬 Ask me about               ...   <b>Tech and Stuff</b><br>
+- 🎮 Fun stuff                  ...   <b>check</b> <a href="https://t.me/sinskaribot">SinskariBot</a> 👈 click here
  </pre>
+
  
  
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Languages And Tools :
