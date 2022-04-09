@@ -45,7 +45,10 @@
 
 
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some stats about Knight-byte <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img alt="KnightByte's github stats" align=right height="190" src="https://github-readme-stats.vercel.app/api?username=knight-byte&&show_icons=true&count_private=true&layout=compact&theme=vue-dark" >
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight-byte&layout=compact&count_private=true&theme=vue-dark" />
-  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight-byte&layout=compact&count_private=true&theme=vue-dark"  display=block height=190 height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=knight-byte&&show_icons=true&count_private=true&layout=compact&theme=vue-dark"  display=block  width=100% align="center" alt="2"></td>
+   </tr>
+</table>
